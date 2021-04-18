@@ -1,6 +1,6 @@
 # bevy_template
-Template project for making games with bevy\\
-Scene State and sprite generation ,deletion\\
+Template project for making games with bevy\n
+Scene State and sprite generation ,deletion\n
 ```
 cargo run --release
 ```
