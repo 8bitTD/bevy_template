@@ -1,6 +1,6 @@
 # bevy_template
 * Template project for making games with bevy
-* Scene State and sprite generation ,deletion
+* Scene State and sprite generate, delete
 
 ```
 cargo run --release
